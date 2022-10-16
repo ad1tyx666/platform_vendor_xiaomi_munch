@@ -623,6 +623,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDAD_Speech_Decoder.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/capi_v2_aptX_CLHDAD_Speech_Decoder.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/capi_v2_dap_cpdp.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/capi_v2_dap_cpdp.so \
+    vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/hrtf5c.bin:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/hrtf5c.bin \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libMIAIHDR_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libMIAIHDR_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libQ6MSFR_manager_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libQ6MSFR_manager_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libSuperSensor_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libSuperSensor_skel.so \
