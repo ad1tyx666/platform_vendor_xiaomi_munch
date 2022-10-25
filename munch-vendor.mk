@@ -1331,7 +1331,6 @@ PRODUCT_PACKAGES += \
     QCC-TR-UI \
     TimeService \
     TrustZoneAccessService \
-    com.qualcomm.qti.gpudrivers.kona.api30 \
     PowerOffAlarm \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
