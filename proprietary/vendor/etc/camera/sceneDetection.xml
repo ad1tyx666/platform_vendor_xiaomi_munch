@@ -122,32 +122,32 @@
         <dxo_nightview_light>17.0</dxo_nightview_light>
         <dxo_nightview_bright_ratio_thresh>0.003</dxo_nightview_bright_ratio_thresh>
         <dxo_nightview_dark_ratio_thresh>0.25</dxo_nightview_dark_ratio_thresh>
-        <dxo_lux_index_thresh>295</dxo_lux_index_thresh>
-        <dxo_middle_ratio_thresh>0.42</dxo_middle_ratio_thresh>
+        <dxo_lux_index_thresh>265</dxo_lux_index_thresh>
+        <dxo_middle_ratio_thresh>0.7</dxo_middle_ratio_thresh>
 
-        <dxo_lux_index_thresh_face>295</dxo_lux_index_thresh_face>
+        <dxo_lux_index_thresh_face>262</dxo_lux_index_thresh_face>
         <dxo_nightview_light_face>15</dxo_nightview_light_face>
         <dxo_nightview_dark_ratio_thresh_face>0.075</dxo_nightview_dark_ratio_thresh_face>
         <dxo_nightview_middle_ratio_thresh_face>0.61</dxo_nightview_middle_ratio_thresh_face>
         <dxo_nightview_bright_ratio_thresh_face>0.003</dxo_nightview_bright_ratio_thresh_face>
 
-        <dxo_nightview_extreme_dark_lux>370.0</dxo_nightview_extreme_dark_lux>
+        <dxo_nightview_extreme_dark_lux>350.0</dxo_nightview_extreme_dark_lux>
   </dxo_nightview_0>
 
   <dxo_nightview_1 feature="1X_auto2" enable="false">
         <dxo_nightview_light>17.0</dxo_nightview_light>
         <dxo_nightview_bright_ratio_thresh>0.003</dxo_nightview_bright_ratio_thresh>
         <dxo_nightview_dark_ratio_thresh>0.25</dxo_nightview_dark_ratio_thresh>
-        <dxo_lux_index_thresh>295</dxo_lux_index_thresh>
-        <dxo_middle_ratio_thresh>0.42</dxo_middle_ratio_thresh>
+        <dxo_lux_index_thresh>265</dxo_lux_index_thresh>
+        <dxo_middle_ratio_thresh>0.7</dxo_middle_ratio_thresh>
 
-        <dxo_lux_index_thresh_face>295</dxo_lux_index_thresh_face>
+        <dxo_lux_index_thresh_face>262</dxo_lux_index_thresh_face>
         <dxo_nightview_light_face>15</dxo_nightview_light_face>
         <dxo_nightview_dark_ratio_thresh_face>0.075</dxo_nightview_dark_ratio_thresh_face>
         <dxo_nightview_middle_ratio_thresh_face>0.61</dxo_nightview_middle_ratio_thresh_face>
         <dxo_nightview_bright_ratio_thresh_face>0.003</dxo_nightview_bright_ratio_thresh_face>
 
-        <dxo_nightview_extreme_dark_lux>370.0</dxo_nightview_extreme_dark_lux>
+        <dxo_nightview_extreme_dark_lux>350.0</dxo_nightview_extreme_dark_lux>
   </dxo_nightview_1>
 
   <dxo_nightview_2 feature="0.6X" enable="true">

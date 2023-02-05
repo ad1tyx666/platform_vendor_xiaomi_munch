@@ -1,5 +1,4 @@
 multiCameraEnable=TRUE
-
 # Camera Log
 logInfoMask=0
 logWarningMask=0
@@ -37,6 +36,7 @@ isBeautyMakeupSupported=TRUE
 isVideoBeautifierSupported=TRUE
 isSuperPortraitSupported=TRUE
 is3rdLightWeightSupported=TRUE
+raiserecoverysigabrt=FALSE
 minReprocessInputWidth=8000
 minReprocessInputHeight=6000
 gyroSensitivityLLS=0.04
@@ -45,6 +45,24 @@ disableFocusIndication=TRUE
 overrideFlashTorchCurrent=500
 overrideFlashlightCurrent=150
 enableSensorHWSync=1
+# Bit Mask for HighQualityQuickShot configure
+# Bit[0]       - Support MFSR/LLS in SAT mode
+# Bit[1]       - Support HDR in SAT mode
+# Bit[2]       - Support SR in SAT mode
+# Bit[3]       - Support SuperNightSE in SAT mode
+# Bit[4~7]     - reserve
+# Bit[8]       - Support Bokeh MFNR in Back Camera
+# Bit[9]       - Support Bokeh HDR in Back Camera
+# Bit[10]      - Support MFNR in Front Camera
+# Bit[11]      - Support HDR in Front Camera
+# Bit[12]      - Support Bokeh in Front Camera
+# Bit[13]      - Support  Macro Mode
+# Bit[14~15]   - reserve
+# Bit[16~19]   - HighQualityQuickShot queue length(max number of HighQualityQuickShot)
+# Bit[20]      - Support reuse RDI buffer or not
+# Bit[21]      - Support Limit MFNR input frames or not
+# Bit[22~31]   - reserve
+HighQualityQuickShotSupportMask=0x000000
 enableSensorFpsMatch=TRUE
 isVideoBokehSupported=TRUE
 isVideoMimovieSupported=TRUE

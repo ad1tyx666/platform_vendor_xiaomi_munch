@@ -37,7 +37,7 @@ algo_params:
 
     #thres
     blend_sharpen_lux_thres: 400
-
+    
     #lighten thresh
     dark_lighten_lux_thresh: 590
     dark_bg_light_ratio: 0.0
