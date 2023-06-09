@@ -603,7 +603,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libQ6MSFR_manager_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libQ6MSFR_manager_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libSuperSensor_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libSuperSensor_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libapps_mem_heap.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libapps_mem_heap.so \
-    vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libarc_hta_driver_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libarc_hta_driver_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libarcsoft_beauty_hvx_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libarcsoft_beauty_hvx_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libarcsoft_hdrplus_hvx_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libbitml_nsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libbitml_nsp_skel.so \
@@ -618,7 +617,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libfrc_mobilenet.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libfrc_mobilenet.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libhdr_cdsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libhdr_cdsp_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libhexagon_nn_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libhexagon_nn_skel.so \
-    vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libhta_dsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libhta_dsp_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libmialgo_basic_cdsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libmialgo_basic_cdsp_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libmialgo_rfs_cdsp_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libmialgo_rfs_cdsp_skel.so \
     vendor/xiaomi/munch/proprietary/vendor/lib/rfsa/adsp/libmobilenet_dsp.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/libmobilenet_dsp.so \
@@ -877,7 +875,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/munch/proprietary/vendor/lib64/libarcsoft_hdr_detection.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_hdr_detection.so \
     vendor/xiaomi/munch/proprietary/vendor/lib64/libarcsoft_hdrplus_hvx_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_hdrplus_hvx_stub.so \
     vendor/xiaomi/munch/proprietary/vendor/lib64/libarcsoft_high_dynamic_range.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_high_dynamic_range.so \
-    vendor/xiaomi/munch/proprietary/vendor/lib64/libarcsoft_hta.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_hta.so \
     vendor/xiaomi/munch/proprietary/vendor/lib64/libarcsoft_mf_superresolution.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_mf_superresolution.so \
     vendor/xiaomi/munch/proprietary/vendor/lib64/libarcsoft_portrait_lighting.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_portrait_lighting.so \
     vendor/xiaomi/munch/proprietary/vendor/lib64/libarcsoft_portrait_lighting_c.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_portrait_lighting_c.so \
